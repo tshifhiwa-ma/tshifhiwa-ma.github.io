@@ -1661,6 +1661,11 @@
     content: "\e968";
 }
 
+.icon-social-instagram:before {
+    content: "\e967";
+}
+
+
 .icon-at:before {
     content: "\e969";
 }
