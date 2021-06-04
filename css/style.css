@@ -253,7 +253,7 @@ header {
     float: left; }
     header .colorlib-navbar-brand .colorlib-logo {
       font-size: 24px;
-      color: #fff;
+      color: black !important;
       font-family: "Poppins", Arial, sans-serif;
       font-weight: 900;
       display: block;
