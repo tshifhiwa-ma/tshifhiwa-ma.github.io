@@ -1346,9 +1346,10 @@ input[type="text"] {
     display: block; }
 
 .colorlib-footer {
-  padding-bottom: 5em;
-  background: #002bdc;
-  color: rgba(255, 255, 255, 0.9); }
+    padding-bottom: 5em;
+    background: #1f222f;
+    color: rgba(255, 255, 255, 0.9);
+}
   .colorlib-footer a {
     color: #fff; }
   .colorlib-footer h3 {
