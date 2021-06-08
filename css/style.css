@@ -990,7 +990,7 @@ article .desc .tag {
 .btn-primary {
     background: #ffdd00;
     color: #000;
-    position: relative;
+    position: relative !important;
     border: 2px solid #ffdd00;
 }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
