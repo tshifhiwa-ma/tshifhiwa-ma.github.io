@@ -988,9 +988,11 @@ article .desc .tag {
     outline: none !important; }
 
 .btn-primary {
-  background: #ffdd00;
-  color: #000;
-  border: 2px solid #ffdd00; }
+    background: #ffdd00;
+    color: #000;
+    position: relative;
+    border: 2px solid #ffdd00;
+}
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     background: #ffe01a !important;
     border-color: #ffe01a !important; }
