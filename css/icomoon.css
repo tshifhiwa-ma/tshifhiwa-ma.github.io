@@ -1609,6 +1609,12 @@
     color: black;
 }
 
+/* WhatsApp */
+.fa-whatsApp {
+    background: #55ACEE;
+    color: black !important;
+}
+
 .icon-media-stop:before {
     content: "\e960";
 }
