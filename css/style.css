@@ -1304,7 +1304,9 @@ input[type="text"] {
   -webkit-flex-wrap: wrap;
   -moz-flex-wrap: wrap;
   width: 100%;
-  padding: 0; }
+  padding: 0; 
+  padding-left: 226px
+}
   .qbstp-header-subscribe .col-three-forth {
     width: 60%; }
   .qbstp-header-subscribe .col-one-third {
