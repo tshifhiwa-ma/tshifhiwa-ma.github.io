@@ -969,12 +969,12 @@ article .desc .tag {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-size: 25px !important;
+  font-size: 28px !important;
   font-weight: 400;
-  -webkit-border-radius: 1px;
+/*  -webkit-border-radius: 1px;
   -moz-border-radius: 1px;
   -ms-border-radius: 1px;
-  border-radius: 1px;
+  border-radius: 1px;*/
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
