@@ -969,7 +969,7 @@ article .desc .tag {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-size: 2px !important;
+  font-size: 25px !important;
   font-weight: 400;
   -webkit-border-radius: 1px;
   -moz-border-radius: 1px;
@@ -989,7 +989,7 @@ article .desc .tag {
     outline: none !important; }
 
 .btn-primary {
-    background: #ffdd00;
+    background: #000000;
     color: #000;
     position: relative !important;
     border: 2px solid #ffdd00;
