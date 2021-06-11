@@ -1308,7 +1308,7 @@ input[type="text"] {
     -moz-flex-wrap: wrap;
     width: 100%;
     padding: 0;
-    padding-left: 274px
+    position: relative;
 }
   .qbstp-header-subscribe .col-three-forth {
     width: 60%; }
