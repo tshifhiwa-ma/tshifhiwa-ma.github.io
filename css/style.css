@@ -992,7 +992,7 @@ article .desc .tag {
     background: #ffdd00 !important;
     color: white !important;
     position: relative !important;
-    border: 2px solid #ffdd00;
+    border: 2px solid #f7f7f7;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
