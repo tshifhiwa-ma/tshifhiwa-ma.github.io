@@ -34,7 +34,7 @@ body {
     overflow-y: hidden; }
 
 a {
-    color: #f7f7f7;
+    color: dodgerblue !important;
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s;
