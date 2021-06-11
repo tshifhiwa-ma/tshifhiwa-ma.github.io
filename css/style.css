@@ -1931,10 +1931,10 @@ input[type="text"] {
     text-decoration: none;
 }
 
-    /* Add a hover effect if you want */
-    .fa:hover {
-        opacity: 0.7;
-    }
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
 
 /* Set a specific color for each brand */
 
@@ -1952,7 +1952,7 @@ input[type="text"] {
 
 /* WhatsApp */
 .fa-whatsapp {
-    background: #55ACEE;
+    background: black;
     color: white;
 }
 
