@@ -34,10 +34,11 @@ body {
     overflow-y: hidden; }
 
 a {
-  color: #ffdd00;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s; }
+    color: #f7f7f7;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
   a:hover {
     text-decoration: underline;
     color: #ffdd00; }
