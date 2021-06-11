@@ -989,7 +989,7 @@ article .desc .tag {
     outline: none !important; }
 
 .btn-primary {
-    background: yellow !important;
+    background: #ffdd00 !important;
     color: white !important;
     position: relative !important;
     border: 2px solid #ffdd00;
