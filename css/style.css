@@ -1751,7 +1751,7 @@ input[type="text"] {
 }
 
 .resume {
-    color: #000;
+    color: lightblue !important;
     font-weight: 500;
 }
 
