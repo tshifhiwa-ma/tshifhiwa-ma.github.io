@@ -39,9 +39,10 @@ a {
     -o-transition: 0.5s;
     transition: 0.5s;
 }
-  a:hover {
-    text-decoration: underline;
-    color: #ffdd00; }
+a:hover {
+    text-decoration: none;
+    color: none;
+}
   a:focus, a:active {
     outline: none; }
 
