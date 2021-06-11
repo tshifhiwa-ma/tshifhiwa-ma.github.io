@@ -1950,6 +1950,12 @@ input[type="text"] {
     color: white;
 }
 
+/* WhatsApp */
+.fa-whatsapp {
+    background: #55ACEE;
+    color: white;
+}
+
 /* Insta */
 .fa-instagram {
     background: #55ACEE;
